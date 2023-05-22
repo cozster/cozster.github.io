@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My name is Cozmin Ududec. At the moment I'm exploring around.
+My name is Cozmin Ududec. At the moment I'm on sabbatical and exploring.
 
 Most recently I was Chief Scientist at [Invenia Labs](https://www.invenia.ca/labs/), where I led a team of researchers with a mission to optimize complex decision making in electricity grids, and improve economic efficiency and reduce emissions.  
 
